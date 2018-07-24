@@ -1,0 +1,19 @@
+{
+  "name": "react-gridster",
+  "version": "1.0.0",
+  "description": "gridster implementation in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annruidi/react-gridster.git"
+  },
+  "author": "indu rani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annruidi/react-gridster/issues"
+  },
+  "homepage": "https://github.com/annruidi/react-gridster#readme"
+}
